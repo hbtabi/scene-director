@@ -1,0 +1,277 @@
+{
+  "title": "Northbank Cold Brew - \"First Light\"",
+  "style": "cinematic",
+  "aspect": "9:16",
+  "meta": {
+    "title": "Northbank Cold Brew - \"First Light\"",
+    "brand": "Northbank Cold Brew (fictional)",
+    "format": "~35s vertical social ad",
+    "author": "Mohammed Hassan bin Tayyeb"
+  },
+  "scenes": [
+    {
+      "number": 1,
+      "heading": "EXT. LONDON BRIDGE - DAWN",
+      "location": "London Bridge",
+      "time": "DAWN",
+      "lighting": "pale blue dawn light",
+      "summary": "Mist hangs over the Thames as the city skyline wakes up",
+      "shots": [
+        {
+          "id": "S01-01",
+          "scene": 1,
+          "shot_type": "Wide establishing shot",
+          "camera_move": "slow push-in",
+          "duration": 3.5,
+          "description": "Mist hangs over the Thames as the city skyline wakes up. Commuters cross the bridge in silhouette.",
+          "characters": [],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Wide establishing shot of London Bridge, mist hangs over the Thames as the city skyline wakes up. Setting: Exterior, London Bridge, pale blue dawn light. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: subject small in frame, strong leading lines, stacked vertically. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters.",
+          "midjourney_prompt": "Wide establishing shot, London Bridge, mist hangs over the Thames as the city skyline wakes up, Exterior, London Bridge, pale blue dawn light, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3.5 s | 9:16] Slow push-in. Wide establishing shot of London Bridge: mist hangs over the Thames as the city skyline wakes up. Exterior, London Bridge, pale blue dawn light. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S01-02",
+          "scene": 1,
+          "shot_type": "Cutaway B-roll",
+          "camera_move": "slow drift",
+          "duration": 3.5,
+          "description": "Maya: “Six a.m. Deadline at nine. No pressure.”",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": "Six a.m. Deadline at nine. No pressure.",
+          "speaker": "Maya",
+          "image_prompt": "Cutaway B-roll of London Bridge, atmospheric b-roll evoking the voice-over line “Six a.m. Deadline at nine. No pressure.” Setting: Exterior, London Bridge, pale blue dawn light. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: waist-up framing, centred. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Cutaway B-roll, London Bridge, atmospheric b-roll evoking the voice-over line “Six a.m. Deadline at nine. No pressure.”, Exterior, London Bridge, pale blue dawn light, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3.5 s | 9:16] Slow drift. Cutaway B-roll of London Bridge: atmospheric b-roll evoking the voice-over line “Six a.m. Deadline at nine. No pressure.” Exterior, London Bridge, pale blue dawn light. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        }
+      ],
+      "duration": 7.0
+    },
+    {
+      "number": 2,
+      "heading": "INT. MAYA'S FLAT - KITCHEN - MORNING",
+      "location": "Maya's Flat - Kitchen",
+      "time": "MORNING",
+      "lighting": "fresh morning light, long soft shadows",
+      "summary": "Maya, late twenties, shuffles in wearing a hoodie, laptop under her arm",
+      "shots": [
+        {
+          "id": "S02-01",
+          "scene": 2,
+          "shot_type": "Wide establishing shot",
+          "camera_move": "slow push-in",
+          "duration": 3.0,
+          "description": "Maya, late twenties, shuffles in wearing a hoodie, laptop under her arm.",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Wide establishing shot: Maya, late twenties, shuffles in wearing a hoodie, laptop under her arm. Setting: Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: subject small in frame, strong leading lines, stacked vertically. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Wide establishing shot, Maya, Maya, late twenties, shuffles in wearing a hoodie, laptop under her arm, Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3 s | 9:16] Slow push-in. Wide establishing shot: Maya, late twenties, shuffles in wearing a hoodie, laptop under her arm. Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S02-02",
+          "scene": 2,
+          "shot_type": "Medium shot",
+          "camera_move": "push-in reveal",
+          "duration": 3.0,
+          "description": "She opens the fridge and pulls out a matte black can of Northbank Cold Brew.",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Medium shot of Maya, she opens the fridge and pulls out a matte black can of Northbank Cold Brew. Setting: Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: waist-up framing, centred. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Medium shot, Maya, she opens the fridge and pulls out a matte black can of Northbank Cold Brew, Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3 s | 9:16] Push-in reveal. Medium shot of Maya: she opens the fridge and pulls out a matte black can of Northbank Cold Brew. Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S02-03",
+          "scene": 2,
+          "shot_type": "Insert close-up",
+          "camera_move": "static, macro focus pull",
+          "duration": 3.0,
+          "description": "Her hand cracks the can. Condensation drips down the label.",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Insert close-up of Maya, her hand cracks the can. Setting: Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: tight macro framing, object fills the frame, clean background. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Insert close-up, Maya, her hand cracks the can, Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3 s | 9:16] Static, macro focus pull. Insert close-up of Maya: her hand cracks the can. Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S02-04",
+          "scene": 2,
+          "shot_type": "Medium close-up",
+          "camera_move": "static",
+          "duration": 2.5,
+          "description": "Maya (to camera, half asleep): “Okay. Let's actually do this.”",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": "Okay. Let's actually do this.",
+          "speaker": "Maya",
+          "image_prompt": "Medium close-up of Maya, mid-sentence (to camera, half asleep). Setting: Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: waist-up framing, centred. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Medium close-up, Maya, mid-sentence (to camera, half asleep), Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[2.5 s | 9:16] Static. Medium close-up of Maya: speaking (to camera, half asleep): “Okay. Let's actually do this.” Interior, Maya's Flat - Kitchen, fresh morning light, long soft shadows. Smooth cinematic motion, natural motion blur, 24fps feel. Maya lip-syncs the line naturally. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        }
+      ],
+      "duration": 11.5
+    },
+    {
+      "number": 3,
+      "heading": "INT. CO-WORKING SPACE - SHOREDITCH - DAY",
+      "location": "Co-working Space - Shoreditch",
+      "time": "DAY",
+      "lighting": "soft natural daylight",
+      "summary": "Maya walks through a buzzing co-working space, can in hand, nodding to friends",
+      "shots": [
+        {
+          "id": "S03-01",
+          "scene": 3,
+          "shot_type": "Wide establishing shot",
+          "camera_move": "slow push-in",
+          "duration": 3.0,
+          "description": "Maya walks through a buzzing co-working space, can in hand, nodding to friends.",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Wide establishing shot: Maya walks through a buzzing co-working space, can in hand, nodding to friends. Setting: Interior, Co-working Space - Shoreditch, soft natural daylight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: subject small in frame, strong leading lines, stacked vertically. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Wide establishing shot, Maya, Maya walks through a buzzing co-working space, can in hand, nodding to friends, Interior, Co-working Space - Shoreditch, soft natural daylight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3 s | 9:16] Slow push-in. Wide establishing shot: Maya walks through a buzzing co-working space, can in hand, nodding to friends. Interior, Co-working Space - Shoreditch, soft natural daylight. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S03-02",
+          "scene": 3,
+          "shot_type": "Medium close-up",
+          "camera_move": "static",
+          "duration": 4.0,
+          "description": "Dev: “You look way too awake for a Monday.”",
+          "characters": [
+            "Dev"
+          ],
+          "dialogue": "You look way too awake for a Monday.",
+          "speaker": "Dev",
+          "image_prompt": "Medium close-up of Dev, mid-sentence, natural expression. Setting: Interior, Co-working Space - Shoreditch, soft natural daylight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: waist-up framing, centred. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Dev: early-30s British-Indian man, short fade haircut, round glasses, navy overshirt).",
+          "midjourney_prompt": "Medium close-up, Dev, mid-sentence, natural expression, Interior, Co-working Space - Shoreditch, soft natural daylight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[4 s | 9:16] Static. Medium close-up of Dev: speaking: “You look way too awake for a Monday.” Interior, Co-working Space - Shoreditch, soft natural daylight. Smooth cinematic motion, natural motion blur, 24fps feel. Dev lip-syncs the line naturally. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S03-03",
+          "scene": 3,
+          "shot_type": "Over-the-shoulder shot",
+          "camera_move": "static",
+          "duration": 2.0,
+          "description": "Maya: “Secret weapon.”",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": "Secret weapon.",
+          "speaker": "Maya",
+          "image_prompt": "Over-the-shoulder shot of Maya, seen over Dev's shoulder, mid-sentence, natural expression. Setting: Interior, Co-working Space - Shoreditch, soft natural daylight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: foreground shoulder out of focus, speaker on the opposite third. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Over-the-shoulder shot, Maya, seen over Dev's shoulder, mid-sentence, natural expression, Interior, Co-working Space - Shoreditch, soft natural daylight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[2 s | 9:16] Static. Over-the-shoulder shot of Maya, seen over Dev's shoulder: speaking: “Secret weapon.” Interior, Co-working Space - Shoreditch, soft natural daylight. Smooth cinematic motion, natural motion blur, 24fps feel. Maya lip-syncs the line naturally. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S03-04",
+          "scene": 3,
+          "shot_type": "Insert close-up",
+          "camera_move": "static, macro focus pull",
+          "duration": 2.5,
+          "description": "She taps the can twice and smiles.",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Insert close-up of Maya, she taps the can twice and smiles. Setting: Interior, Co-working Space - Shoreditch, soft natural daylight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: tight macro framing, object fills the frame, clean background. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Insert close-up, Maya, she taps the can twice and smiles, Interior, Co-working Space - Shoreditch, soft natural daylight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[2.5 s | 9:16] Static, macro focus pull. Insert close-up of Maya: she taps the can twice and smiles. Interior, Co-working Space - Shoreditch, soft natural daylight. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        }
+      ],
+      "duration": 11.5
+    },
+    {
+      "number": 4,
+      "heading": "EXT. ROOFTOP - SHOREDITCH - DUSK",
+      "location": "Rooftop - Shoreditch",
+      "time": "DUSK",
+      "lighting": "golden-hour backlight",
+      "summary": "Maya and Dev clink cans on a rooftop as the skyline turns gold behind them",
+      "shots": [
+        {
+          "id": "S04-01",
+          "scene": 4,
+          "shot_type": "Wide establishing shot",
+          "camera_move": "slow push-in",
+          "duration": 3.0,
+          "description": "Maya and Dev clink cans on a rooftop as the skyline turns gold behind them.",
+          "characters": [
+            "Maya",
+            "Dev"
+          ],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Wide establishing shot: Maya and Dev clink cans on a rooftop as the skyline turns gold behind them. Setting: Exterior, Rooftop - Shoreditch, golden-hour backlight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: subject small in frame, strong leading lines, stacked vertically. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings; Dev: early-30s British-Indian man, short fade haircut, round glasses, navy overshirt).",
+          "midjourney_prompt": "Wide establishing shot, Maya and Dev, Maya and Dev clink cans on a rooftop as the skyline turns gold behind them, Exterior, Rooftop - Shoreditch, golden-hour backlight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[3 s | 9:16] Slow push-in. Wide establishing shot: Maya and Dev clink cans on a rooftop as the skyline turns gold behind them. Exterior, Rooftop - Shoreditch, golden-hour backlight. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S04-02",
+          "scene": 4,
+          "shot_type": "Close-up",
+          "camera_move": "slow push-in",
+          "duration": 2.0,
+          "description": "Maya (quietly): “Shipped it.”",
+          "characters": [
+            "Maya"
+          ],
+          "dialogue": "Shipped it.",
+          "speaker": "Maya",
+          "image_prompt": "Close-up of Maya, mid-sentence (quietly). Setting: Exterior, Rooftop - Shoreditch, golden-hour backlight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: face fills upper two-thirds, eyes on the top third line. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters (Maya: late-20s British-Pakistani woman, curly dark hair in a loose bun, oversized sage-green hoodie, small gold hoop earrings).",
+          "midjourney_prompt": "Close-up, Maya, mid-sentence (quietly), Exterior, Rooftop - Shoreditch, golden-hour backlight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[2 s | 9:16] Slow push-in. Close-up of Maya: speaking (quietly): “Shipped it.” Exterior, Rooftop - Shoreditch, golden-hour backlight. Smooth cinematic motion, natural motion blur, 24fps feel. Maya lip-syncs the line naturally. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        },
+        {
+          "id": "S04-03",
+          "scene": 4,
+          "shot_type": "Wide shot",
+          "camera_move": "slow pan",
+          "duration": 2.5,
+          "description": "The Northbank logo appears over the golden skyline.",
+          "characters": [],
+          "dialogue": null,
+          "speaker": null,
+          "image_prompt": "Wide shot of the rooftop, the Northbank logo appears over the golden skyline. Setting: Exterior, Rooftop - Shoreditch, golden-hour backlight. Cinematic film still, anamorphic, shallow depth of field, subtle film grain. Composition: subject small in frame, strong leading lines, stacked vertically. Colour palette: teal and warm amber. Shot on 35mm anamorphic. Highly detailed, consistent characters.",
+          "midjourney_prompt": "Wide shot, the rooftop, the Northbank logo appears over the golden skyline, Exterior, Rooftop - Shoreditch, golden-hour backlight, Cinematic film still, anamorphic, shallow depth of field, subtle film grain, teal and warm amber, 35mm anamorphic --ar 9:16 --style raw --no blurry, extra fingers, distorted faces, text",
+          "video_prompt": "[2.5 s | 9:16] Slow pan. Wide shot of the rooftop: the Northbank logo appears over the golden skyline. Exterior, Rooftop - Shoreditch, golden-hour backlight. Smooth cinematic motion, natural motion blur, 24fps feel. Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.",
+          "negative_prompt": "blurry, extra fingers, distorted faces, text, watermark, low quality, cartoon"
+        }
+      ],
+      "duration": 7.5
+    }
+  ],
+  "total_duration": 37.5,
+  "shot_count": 13
+}
