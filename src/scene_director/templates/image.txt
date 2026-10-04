@@ -1,0 +1,1 @@
+$lead. Setting: $setting, $lighting. $style_look. Composition: $composition. Colour palette: $palette. Shot on $lens. Highly detailed, consistent characters$character_notes.

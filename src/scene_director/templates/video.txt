@@ -1,0 +1,1 @@
+[$duration s | $aspect] $camera_move. $lead_video. $setting, $lighting. $style_motion. $dialogue_note Keep character appearance consistent with previous shots; no on-screen text, no logos unless described.

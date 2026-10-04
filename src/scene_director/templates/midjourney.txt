@@ -1,0 +1,1 @@
+$shot_type, $subject, $action, $setting, $lighting, $style_look, $palette, $lens --ar $aspect --style raw --no $negative_short
